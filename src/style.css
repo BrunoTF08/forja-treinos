@@ -43,3 +43,4 @@
   .progress-stats{grid-template-columns:repeat(2,minmax(0,1fr))}
   .progress-stats .stat-card:last-child{grid-column:1/-1;min-height:86px}
 }
+@media(max-width:380px){body{min-width:0}}
