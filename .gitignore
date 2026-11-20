@@ -7,3 +7,6 @@ android/capacitor-cordova-android-plugins/build/
 android/local.properties
 work-jdk21/
 work-jdk21.zip
+.env
+.env.*
+!.env.example
